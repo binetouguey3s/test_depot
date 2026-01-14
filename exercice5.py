@@ -23,7 +23,7 @@ contact = {
 # créer au moins 3 contacts,
 contact_1= ["Gueye","Astou","771234567","gueyastou@gmail.com"]
 contact_2= ["Seye","Adja","787654321","seyeadja@gmail.com"]
-contact_3= ["Ba","Fatou","780987654","fatouba@gmail.com"]
+contact_3= ["Diop","Babacar","780987654","fatouba@gmail.com"]
 
 
 # les ajouter à la liste,
